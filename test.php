@@ -6,4 +6,6 @@ require "./vendor/autoload.php";
 $category = new Category('play');
 
 // echo $category->get(1);	
-var_dump($category);
+// var_dump($category);
+
+echo $category;
